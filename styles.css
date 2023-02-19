@@ -33,7 +33,7 @@
 	width:100px; 
 	height:100px;   
 } 
-div{   
+.holder{    
 	padding:2px;  
 	display:flex; 
 	flex-wrap:wrap;
